@@ -1,0 +1,75 @@
+
+.bloc1{
+	background-image: url(Sources/hero_bg.jpg);
+	width: 100%;
+	height:1380px;
+	background-size: 100%;
+}
+
+.header{
+	width: 100%;
+	height: 140px;
+}
+
+.header ul{
+	margin-left: 700px;
+	padding-top: 64px;
+
+}
+
+.header li{
+	float: left;
+	margin-left: 40px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #adadad;
+}
+
+.header li:hover{
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.logo{
+	width: 273px;
+	height: 74px;
+	margin-left: 120px;
+	float: left;
+}
+
+.headercontent{
+	float: right;
+	width: 25%;
+	margin-right: 15%;	
+	padding-bottom: 160px;
+	background: url(Sources/bullets_bottom.png) no-repeat bottom left;
+}
+
+.headercontent h1{
+	color:white;
+	font-size: 36px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.headercontent p{
+	color: #adadad;
+	margin: 20px 0;
+	font-family: 'Titillium Web', sans-serif;
+	line-height: 21px;
+}
+
+.headercontent a{
+	color: #ffffff;
+	font-size: 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border:solid 2px #ffffff;
+	border-radius: 2px;
+	padding: 15px 20px; 
+	display: inline-block;
+	font-family: 'Titillium Web', sans-serif;
+	letter-spacing: 2px;
+}
+
+.headercontent img{
+
+}
