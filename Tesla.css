@@ -71,7 +71,6 @@
 	display: inline-block;
 	margin-top: 15px;
 	font-family: 'Titillium Web', sans-serif;
-	letter-spacing: 2px;
 }
 
 .listepuce{
@@ -179,6 +178,11 @@
 	line-height: 20px;
 }
 
+.carre1 img{
+	position: absolute;
+	margin-left: 20px;
+}
+
 .carre2{
 	width: 720px;
 	height: 350px;
@@ -218,6 +222,11 @@
 	line-height: 20px;
 }
 
+.carre4 img{
+	position: absolute;
+	margin-top: 117px;
+}
+
 .bloc4{
 	background-color: #FFFFFF;
 	height: 290px;
@@ -246,7 +255,7 @@
 	font-family: 'Titillium Web', bold;
 	color: #FFFFFF;
 	font-size: 35px;
-	padding-top: 25px;
+	padding-top: 27px;
 	margin-left: 90px;
 }
 
